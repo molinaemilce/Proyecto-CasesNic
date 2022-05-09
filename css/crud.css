@@ -57,11 +57,7 @@ thead{
     border-radius: 2px;
     padding: 5px 15px;
 }
-.crud-noadmin{
-    height: 70vh ;
-    background-color: red;
-    color: white;
-}
+
 /* responsive para celulares 
 @media (max-width: 425px) {
     .crud{
