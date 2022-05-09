@@ -6,7 +6,7 @@ main {
 /*Detalle*/
 
 
-
+/*imagen acorde al carrusel*/
 .carousel-item img {
     object-fit: contain;
     object-position: center;
