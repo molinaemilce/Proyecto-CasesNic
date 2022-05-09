@@ -1,0 +1,103 @@
+#crud-admin{
+    visibility: hidden;
+}   
+.crud .boton-moodle, .crud .barra-busqueda, .crud .buscar-producto{
+    margin: 1em;
+}
+.crud{
+    margin:20px auto;
+    width:100%;
+}
+.crud h1{
+    visibility:hidden;
+}
+table{
+    background-color: rgb(253, 253, 253);
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    padding:20px
+}
+tr:nth-child(even){
+    background-color: #ddd;
+}
+tr:hover td{
+    background-color: #6b9099;
+}
+thead{
+    background-color: darkslategray;  
+    border-bottom: solid 5px #0F362D;
+    color: white;
+}
+.crud .crud-paginas{
+    display: flex;
+}
+.crud .crud-paginas .lista-items{
+    width: 50%;
+}
+.crud .crud-paginas .paginas{
+    margin-left: auto;
+    margin-right: 0;
+    width: 50%;
+}
+.crud .crud-paginas .paginas ul{
+    margin:0;
+    padding: 10px;
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-end;
+}
+.crud .crud-paginas .paginas ul li{
+    display: inline-block;
+    margin: 2px;
+}
+.crud .crud-paginas .paginas ul li button{
+    width: 100%;
+    border-radius: 2px;
+    padding: 5px 15px;
+}
+.crud-noadmin{
+    height: 70vh ;
+    background-color: red;
+    color: white;
+}
+/* responsive para celulares 
+@media (max-width: 425px) {
+    .crud{
+        background-color: green;
+        width: 100%;
+    }
+    .crud h1{
+        padding: 1em;
+        text-align: center;
+        visibility: visible;
+    }
+    th,td{
+        padding:10px;
+    }
+    table thead{
+        display: none;
+    }
+    table tr{
+        display: flex;
+        flex-direction: column;
+    }
+    table td[data-titulo]{
+        display: flex;
+    }
+    table td[data-titulo]::before{
+        content: attr(data-titulo);
+        width: 90px;
+    }
+    .crud .crud-paginas {
+        display: flex;
+    }
+}
+*/
+@media (max-width: 768px) {
+    .crud{display: none;}
+    #crud-admin{
+        visibility:visible;
+    }
+}
