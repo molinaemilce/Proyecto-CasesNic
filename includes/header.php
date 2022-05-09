@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="./css/fernando.css">
   <link rel="stylesheet" href="./css/crud.css">
+  <link rel="stylesheet" href="./css/cristian.css">
 </head>
 
 <body>
