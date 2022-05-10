@@ -1,12 +1,23 @@
 
 <?php include 'includes/header.php' ?>
     <main class="container-xxl">
-      si soluta, architecto non sed placeat? Aut nobis beatae blanditiis. Inventore laudantium officia architecto minima
-      delectus perspiciatis fugiat, iusto necessitatibus labore eaque praesentium dolor ut.
-      Dicta sint veritatis quasi eum nostrum et harum, nihil necessitatibus vero asperiores assumenda est odio
-      reprehenderit cum voluptas esse rem dolorum vitae laboriosam doloremque optio quia facilis qui? Magnam, adipisci!
-      iet sapiente numquam deserunt nam voluptatum voluptas explicabo quaerat quis quos dolorem nulla aperiam eaque
-      dolorum, nostrum doloribus culpa qui exercitationem tenetur facilis consequatur quibusdam illum? Minima, eum.
+
+   <div class="" data-id="f3f5177" data-element_type="column">		
+				<h3 class="elementor-icon-box-title"> <span>11-6920-1219</span> </h3>
+			    <p class="elementor-icon-box-description">Disponible en horario comercial</p>
+	</div>
+	
+	<div class="elementor-element elementor-element-59286a4 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="59286a4" data-element_type="widget" data-widget_type="icon-box.default">
+				<h3 class="elementor-icon-box-title"><span>Casesnic@Gmail.com</span></h3>
+				<p class="elementor-icon-box-description">Atención directa por Email</p>
+	</div>
+	
+	<div class="elementor-element elementor-element-40c8a14 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="40c8a14" data-element_type="widget" data-widget_type="icon-box.default">
+				<h3 class="elementor-icon-box-title"><span>Hipólito Yrigoyen 3484</span></h3>
+				<p class="elementor-icon-box-description">(Almagro)<br>
+                 CABA - Buenos Aires</p>
+	</div>
+		
     </main>
 
 <?php include 'includes/footer.php' ?>
