@@ -12,7 +12,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="css/style1.css">
   <link rel="stylesheet" href="./css/main.css">
   <link rel="stylesheet" href="./css/fernando.css">
   <link rel="stylesheet" href="./css/crud.css">
@@ -24,24 +24,26 @@
     <div class="sub-header container-xxl">
       <div>
         <ul>
-          <li><a href="">+12121234</a></li>
+          <li><a href="">+1112121234</a></li>
           <li>|</li>
-          <li><a href="">hoasdoasd@gmail.com</a></li>
+          <li><a href="">casenic@gmail.com</a></li>
         </ul>
       </div>
 
       <div>
         <ul>
-          <li><a href="../PROJECT/login.php">Iniciar sesion</a></li>
+          <li><a href="./login.php">Iniciar sesion</a></li>
           <li>|</li>
-          <li><a href="../PROJECT/registro.php">Crear cuenta</a></li>
+          <li><a href="./registro.php">Crear cuenta</a></li>
         </ul>
       </div>
     </div>
   </header>
   <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark">
     <div class="container-fluid text-white container-xxl">
-      <a class="navbar-brand" href="../PROJECT/index.php">LOGO</a>
+      <a class="navbar-brand" href="./index.php">
+        <img src="./img/logo.jpeg" alt="" class="logo-nav">
+      </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -52,20 +54,14 @@
               Productos
             </a>
             <ul class="dropdown-menu bg-black" aria-labelledby="navbarScrollingDropdown">
-              <li><a class="dropdown-item" href="../PROJECT/productos.php">Fundas</a></li>
-              <li><a class="dropdown-item" href="#">Auriculares</a></li>
-              <li><a class="dropdown-item" href="#">Accesorios</a></li>
-              <li><a class="dropdown-item" href="#">Acesorios Apple</a></li>
-              <li><a class="dropdown-item" href="#">Protectores de pantalla</a></li>
-              <li><a class="dropdown-item" href="#">Cargadores</a></li>
-              <li><a class="dropdown-item" href="#">Otros</a></li>
+              <li><a class="dropdown-item" href="./productos.php">Fundas</a></li>
+              <li><a class="dropdown-item" href="./productos.php">Auriculares</a></li>
+              <li><a class="dropdown-item" href="./productos.php">Accesorios</a></li>
+              <li><a class="dropdown-item" href="./productos.php">Acesorios Apple</a></li>
+              <li><a class="dropdown-item" href="./productos.php">Protectores de pantalla</a></li>
+              <li><a class="dropdown-item" href="./productos.php">Cargadores</a></li>
+              <li><a class="dropdown-item" href="./productos.php">Otros</a></li>
             </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Preguntas frecuentes</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Cómo comprar</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Contacto</a>

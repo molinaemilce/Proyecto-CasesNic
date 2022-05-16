@@ -26,15 +26,15 @@
         <div class=" row  justify-content-center sub-footer-nosotros">
           <div class="col-12 col-sm-5 text-center text-sm-start">
             <h3>Case</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ad culpa dicta commodi aliquam tenetur
-              sequi placeat eveniet quod hic modi id natus libero velit numquam, architecto incidunt doloremque quos?
+            <p>
+            Ofrecemos accesorios tecnológicos que acompañen y satisfagan las necesidades de nuestros clientes, acompañando los mismos con la mejor atención, asesoramiento y servicio post venta.
             </p>
           </div>
           <div class=" col-sm-5 text-center col-12 text-sm-end">
             <h3>Contactanos</h3>
             <ul>
-              <li><a href=""><i class="fa-solid fa-phone"></i> +234234234</a></li>
-              <li><a href=""><i class="fa-solid fa-envelope"></i> asdasd@gmail.com</a></li>
+              <li><a href=""><i class="fa-solid fa-phone"></i> +11234234234</a></li>
+              <li><a href=""><i class="fa-solid fa-envelope"></i>casenic@gmail.com</a></li>
               <li><a href=""></a></li>
             </ul>
           </div>

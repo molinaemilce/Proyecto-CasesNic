@@ -12,7 +12,7 @@ a{
     margin-top: 0; 
  }
  .sub-header{
-     background-color: black;
+     background-color: #021825;
      color: white;
      display: flex;
      justify-content: space-between;
@@ -36,7 +36,7 @@ a{
  }
  .bg-dark{
      color: black;
-     background-color: black !important;
+     background-color: #021825 !important;
  }
 .sub-header-burger{
     display: none;
@@ -45,7 +45,7 @@ a{
 /*footer*/
 
 footer{
-    background-color: black;
+    background-color: #021825;
     color: white;
 
 }
@@ -136,7 +136,7 @@ footer{
 }
 .modal-compra{
     background-color: grey;
-    width: 500px;
+    width: 320px;
     height: 100%;
     float: right;
 }
@@ -244,6 +244,10 @@ nav{
  color: black;
  font-weight: bold;
  font-size: 1.2rem;
+}
+.logo-nav{
+    width: 80px;
+    height: 70px;
 }
 
  /*RESPONSIVE*/
