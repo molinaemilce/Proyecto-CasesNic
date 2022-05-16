@@ -64,10 +64,10 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contacto</a>
+            <a class="nav-link" href="./contacto.php">Contacto</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../casenic_proyecto/crud.php">CRUD(admin)</a>
+            <a class="nav-link" href="./crud.php">CRUD(admin)</a>
           </li>
         </ul>
         <form class="d-flex align-items-center">
